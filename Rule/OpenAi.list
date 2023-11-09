@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,AI.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,api-iam.intercom.io
 DOMAIN-SUFFIX,bard.google.com
@@ -19,7 +20,6 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,civitai.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,cloud.culturedcode.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflareinsights.com
@@ -47,16 +47,14 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,platform.openai.com
-DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,revenuecat.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,static.metafi.codefi.network
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stspg-customer.com
 DOMAIN-SUFFIX,vimeo.com
