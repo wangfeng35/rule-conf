@@ -59,3 +59,6 @@ DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stspg-customer.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,livekit.cloud
