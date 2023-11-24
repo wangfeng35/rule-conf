@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,livekit
+DOMAIN-KEYWORD,openaiapi
+DOMAIN-KEYWORD,openaipublic
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,cloud.culturedcode.com
