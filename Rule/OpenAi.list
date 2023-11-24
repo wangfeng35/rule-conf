@@ -2,12 +2,16 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,file.oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,api-iam.intercom.io
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,tr9i.chat.openai.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,android.chat.openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -21,6 +25,7 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,livekit
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,cloud.culturedcode.com
@@ -32,7 +37,6 @@ DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,eu-west-1.amazonaws.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,f7tk.com
-DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,gpt3sandbox.com
@@ -40,8 +44,6 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,hosted-by-discourse.com
 DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
